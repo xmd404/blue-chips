@@ -139,20 +139,6 @@
             "discord_url": "https://discord.gg/tQp4pSE",
             "image_url": "https://lh3.googleusercontent.com/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE=s120",
             "slug": "cryptopunks"
-        },
-        {
-            "name": "Mutant Ape Yacht Club",
-            "symbol": "MAYC",
-            "schema_name": "ERC721",
-            "description": "The MUTANT APE YACHT CLUB is a collection of up to 20,000 Mutant Apes that can only be created by exposing an existing Bored Ape to a vial of MUTANT SERUM or by minting a Mutant Ape in the public sale.",
-            "address": "0x60e4d786628fea6478f785a6d7e704777c86a7c6",
-            "payout_address": "0xaae7ac476b117bccafe2f05f582906be44bc8ff1",
-            "created_date": "2021-08-28T23:59:47.536067",
-            "website_link": "http://www.boredapeyachtclub.com/",
-            "twitter_username": "BoredApeYC",
-            "discord_url": "https://discord.gg/3P5K3dzgdB",
-            "image_url": "https://lh3.googleusercontent.com/lHexKRMpw-aoSyB1WdFBff5yfANLReFxHzt1DOj_sg7mS14yARpuvYcUtsyyx-Nkpk6WTcUPFoG53VnLJezYi8hAs0OxNZwlw6Y-dmI=s120",
-            "slug": "mutant-ape-yacht-club"
         }
     ]
   }
