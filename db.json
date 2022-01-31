@@ -10,7 +10,8 @@
             "twitter_username": "doodles",
             "discord_url": "https://discord.gg/doodles",
             "image_url": "https://lh3.googleusercontent.com/7B0qai02OdHA8P_EOVK672qUliyjQdQDGNrACxs7WnTgZAkJa_wWURnIFKeOh5VTf8cfTqW3wQpozGedaC9mteKphEOtztls02RlWQ=s120",
-            "slug": "doodles-official"
+            "slug": "doodles-official",
+            "floor_price": 14
         },
         {
             "name": "Cool Cats",
@@ -22,7 +23,8 @@
             "twitter_username": "coolcatsnft",
             "discord_url": "https://discord.gg/X6A4AXrKaR",
             "image_url": "https://lh3.googleusercontent.com/LIov33kogXOK4XZd2ESj29sqm_Hww5JSdO7AFn5wjt8xgnJJ0UpNV9yITqxra3s_LMEW1AnnrgOVB_hDpjJRA1uF4skI5Sdi_9rULi8=s120",
-            "slug": "cool-cats-nft"
+            "slug": "cool-cats-nft",
+            "floor_price": 15
         },
         {
             "name": "Robotos",
@@ -34,7 +36,8 @@
             "twitter_username": "robotosNFT",
             "discord_url": "https://discord.gg/robotos",
             "image_url": "https://lh3.googleusercontent.com/hZ1VzS0uyt-jA8C13rTHMSxQHlr1qdTHSzHqxhBlEn9V107ANj8dtzWFnD0q9oQZ6Hs-XcN4eOFl3KF7qS4V9ApQHMipGkG33yLvDw=s120",
-            "slug": "robotos-official"
+            "slug": "robotos-official",
+            "floor_price": 1
         },
         {
             "name": "DeadFellaz",
@@ -46,7 +49,8 @@
             "twitter_username": "deadfellaznft",
             "discord_url": "https://discord.gg/deadfellaz",
             "image_url": "https://lh3.googleusercontent.com/seJEwLWJP3RAXrxboeG11qbc_MYrxwVrsxGH0s0qxvF68hefOjf5qrPSKkIknUTYzfvinOUPWbYBdM8VEtGEE980Qv2ti_GGd86OWQ=s120",
-            "slug": "deadfellaz"
+            "slug": "deadfellaz",
+            "floor_price": 5
         },
         {
             "name": "Smilesss",
@@ -58,7 +62,8 @@
             "twitter_username": "smilesssvrs",
             "discord_url": "https://discord.gg/smilesss",
             "image_url": "https://lh3.googleusercontent.com/hbmc3V8YlN0_tslH9qjQRbj_dZpNzInzx-uY0t5LgQY-lrVBd9Rgv_KMnlxyAKE5ZTgoZhZYW3e3v2bZ2kOUYTKRdlFnfnErqs1EWHA=s120",
-            "slug": "smilesssvrs"
+            "slug": "smilesssvrs",
+            "floor_price": 1.75
         },
         {
             "name": "World Of Women",
@@ -70,7 +75,8 @@
             "twitter_username": "worldofwomennft",
             "discord_url": "https://discord.gg/worldofwomen",
             "image_url": "https://lh3.googleusercontent.com/7rQxqp2cAN4J-pFJ6A22Ncb_tm2j6Lz61zXMi9bNJbmAk8PheVXcL4zVIZptVQ8_owbOJAiYuhSbn0vtjwcE4Jg7FQqDGwZTndd-_A=s120",
-            "slug": "world-of-women-nft"
+            "slug": "world-of-women-nft",
+            "floor_price": 4
         },
         {
             "name": "SupDucks",
@@ -82,7 +88,8 @@
             "twitter_username": "realsupducks",
             "discord_url": "https://discord.gg/supducks",
             "image_url": "https://lh3.googleusercontent.com/WNd3NNCiOAkD3rUNCau9qXDPQsnH3ZA8PcDMhlsfLnK6J1vSNpJnPFCjA-_l03LbCxwAYC1Mj8IcRQch7YMTDLnn_c-jAQ03RWRdEw=s120",
-            "slug": "supducks"
+            "slug": "supducks",
+            "floor_price": 2
         },
         {
             "name": "Bored Ape Yacht Club",
@@ -94,19 +101,8 @@
             "twitter_username": "BoredApeYC",
             "discord_url": "https://discord.gg/3P5K3dzgdB",
             "image_url": "https://lh3.googleusercontent.com/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB=s120",
-            "slug": "boredapeyachtclub"
-        },
-        {
-            "name": "Adam Bomb Squad",
-            "symbol": "ABS",
-            "description": "The Hundreds Official Adam Bomb Squad NFT Collectibles",
-            "address": "0x7ab2352b1d2e185560494d5e577f9d3c238b78c5",
-            "created_date": "2021-08-27T03:01:26.876400",
-            "website_link": "https://abs.thehundreds.com",
-            "twitter_username": "AdamBombSquad",
-            "discord_url": "https://discord.gg/thehundreds",
-            "image_url": "https://lh3.googleusercontent.com/AFLfluhz2BbvfAUDmTdZzZKvF-wETqzYFZUefPJIw9tO9uXiqftaznKxpgUobXFQqpmG5n2tgAvjbSycubZZ7E89D4K8QbzIFtGWCkY=s120",
-            "slug": "dam-bomb-squad"
+            "slug": "boredapeyachtclub",
+            "floor_price": 100
         },
         {
             "name": "CryptoPunks",
@@ -118,7 +114,8 @@
             "twitter_username": "larvalabs",
             "discord_url": "https://discord.gg/tQp4pSE",
             "image_url": "https://lh3.googleusercontent.com/BdxvLseXcfl57BiuQcQYdJ64v-aI8din7WPk0Pgo3qQFhAUH-B6i-dCqqc_mCkRIzULmwzwecnohLhrcH8A9mpWIZqA7ygc52Sr81hE=s120",
-            "slug": "cryptopunks"
+            "slug": "cryptopunks",
+            "floor_price": 65
         }
     ]
   }
